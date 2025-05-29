@@ -1,0 +1,15 @@
+/* components/Header.module.css */
+.header {
+  background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+.icon {
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+.header p {
+  margin-top: 0.5rem;
+  opacity: 0.9;
+}
