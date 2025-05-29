@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
@@ -31,14 +28,5 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+![Screenshot 2025-05-28 151821](https://github.com/user-attachments/assets/ee292e27-7e16-4c69-94b5-546d7f99609b)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Nodejs
->>>>>>> 2a7b283e249f02cd07d935a9b71d04b0be01622d
-=======
-# Nodejs
->>>>>>> 2a7b283e249f02cd07d935a9b71d04b0be01622d
